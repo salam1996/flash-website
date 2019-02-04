@@ -1,0 +1,114 @@
+body{
+    font-family: fantasy;
+}
+
+footer{
+	font-weight: bolder;
+	font-family: Georgia, serif;
+	font-size: small;
+}
+
+
+
+* {
+	border: 1px;
+
+	padding: 2px;
+
+}
+
+
+
+.container {
+	margin: 0 auto;
+	width: 90%;
+	max-width: 960px;
+
+	display: grid;
+	grid-template-columns: 218px 1fr 200px;
+
+}
+
+header{
+	grid-column: 1/2;
+}
+
+
+aside {
+	grid-column: 2/4;
+	align-self: end;
+	font-size: small;
+	line-height: 1.0;
+}
+
+main{
+	grid-column: 1/4;
+}
+
+footer{
+	grid-column: 1/2;
+}
+
+nav{
+	grid-column: 2/4;
+}
+
+
+
+nav ul{
+	display: flex;
+	justify-content: flex-end;
+	list-style-type: none;
+}
+
+nav li{
+	margin-left: 20px;
+}
+
+nav a{
+	text-decoration: none;
+}
+
+
+aside ul{
+	list-style-type: none;
+	font-style: italic;
+	margin-bottom: 5px;
+}
+
+
+
+.is-current {
+		background-color: black;
+ 		color: white;
+}
+
+
+
+header a{
+	display: block;
+	position: relative;
+}
+
+header h1{
+	transform: rotate(-90deg);
+	position: absolute;
+	z-index: 100;
+	top:87px;
+	left:-81px;
+	font-size: 27px;
+	color: black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
