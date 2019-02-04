@@ -1,4 +1,4 @@
-<?php $title = 'The Basics'; ?>
+<?php $title = 'Meet the Team'; ?>
 <?php include "inc/top.php"; ?>	
 
 <?php include "inc/maisha.php"; ?>	
