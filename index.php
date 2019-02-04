@@ -23,3 +23,5 @@
 		<p> I am a senior at the University of Rochester majoring in Financial Economics with a minor in Business. Before transferring to the U of R a couple years ago, I was living in Austin, Texas. Most recently, I was working as a Fundraising coordinator for a local non-profit called Humans for Education that helps schools in Kenya become financially independent and in turn make sure every child has access to quality education. Now, I have been working as a Workshop Leader for Calculus III and Python. It has been a very rewarding experience because I realized that no matter how much you know about a subject, there is always room to learn more. <a href="http://bchadia.digitalscholar.rochester.edu/csc174/lab1/">Find out more about Chadia.</a></p>
 </section>
 
+<?php include "inc/bottom.php"; ?>
+

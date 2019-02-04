@@ -6,7 +6,7 @@
 		<ul>
 			<li><a href="index.php">The Basics</a></li>
 			<li><a href="courses.php">Courses</a></li>
-			<li><a href="school-activities.php">School Activities</a></li>
+			<li><a href="extra.php">School Activities</a></li>
 			<li><a href="hobbies.php">Hobbies</a></li>
 		</ul>
 	</nav>
