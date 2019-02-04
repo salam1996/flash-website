@@ -53,6 +53,11 @@ nav{
 	grid-column: 2/4;
 }
 
+p{
+	display: block;
+	grid-column: 1/4;
+}
+
 
 
 nav ul{
