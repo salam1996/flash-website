@@ -1,27 +1,26 @@
-<?php $title = 'Meet the Team'; ?>
+<?php $title = 'Courses'; ?>
 <?php include "inc/top.php"; ?>	
-
-<?php include "inc/maisha.php"; ?>	
-
+	<?php include "inc/maisha.php"; ?>
 <section>
 		<p>
-			As long as I don’t fail any classes, I should be graduating this upcoming May.  After that, I’m starting a software engineering position right outside of Boston.  It’s funny that, somehow, I’ve made it through four years of college, stuck with my Computer Science major, and am now employed in a position that’ll apply my Computer Science knowledge!  Along with my major, I am minoring in Political Science and have completed my cluster in American Sign Language.  If time allowed it, I would be interested in minoring in ASL as well.  I have two Deaf relatives, and I wish I was better able to communicate with them, so I'm glad I was able to learn more about Deaf culture through my cluster.  In addition, I’m the first in my family to graduate high school (and subsequently the first in my family to graduate college), so it’s a weird shock to be earning a degree in a field I’ve felt (and still sometimes feel) inadequate in.  It's no secret that there are fewer women than men in computing, though I've learned of and found a community for myself.  It’s scary to imagine becoming a full-fledged adult.  Being at UR and away from my home in Queens, NY has definitely helped me gain the necessary knowledge and independence.  I’m ready, but hesitant, for what’s ahead.  <a href="http://midris2.digitalscholar.rochester.edu/csc174/lab01/www/">Find out more about Maisha.</a>
+			Along with CSC 174, this semester I’m taking CSC 191/291 (Machines & Consciousness), CSC 242 (Introduction to Artificial Intelligence), MUR 168A (West African Drumming Introduction), and PSC 288 (Game Theory).  Some of my favorite courses in the past have been CSC 173 (Computation & Formal Systems), PSC 248 (Discrimination), CSC 170 (Introduction to Web Development), CSC 299W (Social Implications of Computing), and all of the courses required for my cluster in American Sign Language.  I wish I could go back in time, and try out some new courses, or audit more courses I'm interested in but that don't fit my degree requirements.  Some of my favorite courses, such as CSC 170 and PSC 248, started off as interests or curiosity that did not contribute to my degree (not my major, minor, or cluster), but the course either eventually became applicable once I realized it was in line with what I wanted to do or pointed me towards more courses in topics I discovered that I enjoyed.
 		</p>
+
 </section>
-
-<?php include "inc/sharon.php"; ?>
-
+	<?php include "inc/sharon.php"; ?>
 <section>
-		<p>
-		I am from Eastern part of China, a city called Ningbo in Zhejiang Province. It is very close to Shanghai, 2 hours away by bullet train. I have an elder sister, who has been married. My brother-in-law is my life tutor, with whom I always share my concerns and worries. They have twin babies who are super cute and are in the stage of kindergarten. I am very happy they are going to come to my commencement this May. I am looking forward to travelling with them around the US together.  <a href="http://xding12.digitalscholar.rochester.edu/csc174/lab01/index.php">Find out more about Sharon.</a>
-		</p>
+			<p>
+				Currently I am taking ECO 211 (Money, Credit & Banking), FIN 206 (Investments), ACC 222 (Financial Statements Analysis), CSC 174 (Advanced Front-End Web Design). In addition, I am also auditing CIS 242 (Predictive Analytics for Business and GBA 211 (Business Modeling with Excel). In the past 3 years, I have taken Economics related courses including Intermediate Microeconomics, Contract Theory, Econometrics, industrial Organization; Mathematics related courses including Multidimensional Calculus, Linear Algebra with Differential Equation, Intro to Financial Mathematics; Statistics related course including Elements Probability and Math; Finance related course including Financial Management; Accounting related courses including Financial Accounting, Managerial Accounting; Computer Science related courses including Python and Web Design & Development. I also have taken 4 different languages courses including Spanish, Polish, Japanese and Korean. I took Korean for two years, and Spanish, Polish, as well as Japanese for 1 year.
+			</p>
 </section>
-
-<?php include "inc/chadia.php"; ?>
-
+	
+	<?php include "inc/chadia.php"; ?>
 <section>
-		<p> I am a senior at the University of Rochester majoring in Financial Economics with a minor in Business. Before transferring to the U of R a couple years ago, I was living in Austin, Texas. Most recently, I was working as a Fundraising coordinator for a local non-profit called Humans for Education that helps schools in Kenya become financially independent and in turn make sure every child has access to quality education. Now, I have been working as a Workshop Leader for Calculus III and Python. It has been a very rewarding experience because I realized that no matter how much you know about a subject, there is always room to learn more. <a href="http://bchadia.digitalscholar.rochester.edu/csc174/lab1/">Find out more about Chadia.</a></p>
+		<p> I am currently taking a class on Financial Statement Analysis that covers the applied financial analysis and valuation skills that are required to work on Wall Street in, for example, investment banking and equity research firms. The objective of this class is to develop and sharpen one’s analytical ability to use financial information to perform a wide variety of applied economic and financial analysis. Last semester, I took Corporate Finance that I found very interesting. The course examined corporate financing policy – thus our primary focus was on the liability side of the firm’s balance sheet. We examined the valuation of debt and equity claims under the simplifying assumptions made by Modigliani and Miller. We also examined how relaxing those assumptions provides a basis for understanding financing policy choices. We looked at leverage, the use of public vs. private debts, maturity, priority, leasing, and hedging policies. Finally, we also discussed competition and dividend policies.
+	</p>
+
 </section>
+
+
 
 <?php include "inc/bottom.php"; ?>
-
