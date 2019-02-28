@@ -1,5 +1,9 @@
-body{
-    font-family: fantasy;
+h1, h2, h3{
+    font-family: 'Chonburi', cursive;
+}
+
+p, nav, aside {
+	font-family: 'Open Sans', sans-serif; 
 }
 
 footer{
@@ -8,7 +12,9 @@ footer{
 	font-size: small;
 }
 
-
+p {
+	line-height: 1.6;
+}
 
 * {
 	border: 1px;
@@ -104,9 +110,9 @@ header h1{
 	position: absolute;
 	z-index: 100;
 	top:87px;
-	left:-81px;
+	left:-110px;
 	font-size: 27px;
-	color: black;
+	color: rgb(79, 44, 50);
 }
 
 header h2{
@@ -114,9 +120,9 @@ header h2{
 	position: absolute;
 	z-index: 100;
 	top:87px;
-	left:-81px;
+	left:-114px;
 	font-size: 27px;
-	color: black;
+	color: rgb(79, 44, 50);
 }
 
 header h3{
@@ -124,13 +130,35 @@ header h3{
 	position: absolute;
 	z-index: 100;
 	top:55px;
-	left:-106px;
+	left:-136px;
 	font-size: 27px;
-	color: black;
+	color: rgb(79, 44, 50);
+}
+
+aside {
+	background-color: rgb(145, 147, 150, .3);
+}
+
+section {
+	margin-bottom: 30px;
+	background-color: rgb(145, 147, 150, .3);
 }
 
 
 
+/* **********************************
+	Typography
+
+	I changed the type font to Chonburi and Open Sans so the heading and paragraphs have different type faces. I chose these fonts 
+	because it was more suitable for sharing information. The headers are a bolder typeface where as the paragraphes are a slimmer 
+	typeface.
+
+	Readability 
+
+	Added a color to the names and added background to the aside and paragraph to enforce repition. Padding between the sections
+	to increase separation and readability. Increased line height in the paragraph so its easier to read. 
+
+	********************************** */
 
 
 

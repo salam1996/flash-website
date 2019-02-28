@@ -4,10 +4,7 @@
 
 	<nav>
 		<ul>
-			<li><a href="index.php"> The Team </a></li>
-			<li><a href="courses.php">Courses</a></li>
-			<li><a href="extra.php"> Extra-curriculars</a></li>
-			<li><a href="hobbies.php">Hobbies</a></li>
+			<li><a href="http://csc174.org/assignment02/queens/"> Original Site </a></li>
 		</ul>
 	</nav>
 
